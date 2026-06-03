@@ -1,0 +1,27 @@
+[Interface]
+Name=
+
+PrivateKey = 
+8OzzxAZUWp91hBEltSi0KXNyR/QFxVfOOYhwE2NcwXE=
+
+Address = 
+192.168.177.2/24
+
+ListenPort = 
+13231
+
+DNS = 
+1.1.1.1, 1.0.0.1
+
+-----------------------
+
+[Peer]
+PublicKey = 
+qKCNdxbDzWXTNLdjvY0i99HrkzUxshpNb1PzwBHy8V0=
+
+Endpoint = 
+94.183.119.90:13231
+
+AllowedIPs = 
+0.0.0.0/0
+
